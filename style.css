@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+nav {
+  display: flex;
+  padding: 1em 10%;
+  background-color: rgba(241, 64, 233, 0.7);
+  justify-content: space-between;
+}
+.navul {
+  display: flex;
+}
+.navul > li {
+  margin: 0 0.3em;
+  list-style: none;
+}
+nav a {
+  text-decoration: none;
+}
